@@ -2,9 +2,9 @@
 STACC: a set of SentenceTransformer Assisted Comment Classifiers 📚
 
 ## Quickstart Guide
-First activate the conda environment:
+First install the requirements:
 
-```conda env create -n STACC --file env.yml```
+```pip install -r requirements.txt```
 
 Next clone the original competition repo into this repo to get access to the training data:
 
