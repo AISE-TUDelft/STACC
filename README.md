@@ -25,4 +25,5 @@ If you wish to run the notebooks in Google Colab we provide the following ready-
 
 ## Huggingface Space
 We also integrated STACC 📚 in a [Huggingface space.](https://huggingface.co/spaces/AISE-TUDelft/STACC) 
-[![image](https://user-images.githubusercontent.com/33690937/217073128-436ba85a-b99a-4f9b-8b12-041ce9cb3dbf.png)](https://huggingface.co/spaces/AISE-TUDelft/STACC)
+
+[![image](https://user-images.githubusercontent.com/33690937/217075524-9cb961f9-0ae2-40ed-9ec6-d8f8ed220f9e.png)](https://huggingface.co/spaces/AISE-TUDelft/STACC)
