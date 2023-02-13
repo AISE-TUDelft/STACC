@@ -2,9 +2,9 @@
 STACC: a set of SentenceTransformer Assisted Comment Classifiers 📚
 
 ## Quickstart Guide
-First install the requirements:
+First install [SetFit](https://github.com/huggingface/setfit) with the [Optuna](https://github.com/optuna/optuna) backend:
 
-```pip install -r requirements.txt```
+```pip install setfit[optuna]```
 
 Next clone the original competition repo into this repo to get access to the training data:
 
