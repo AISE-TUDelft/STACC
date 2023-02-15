@@ -1,5 +1,5 @@
-# STACC
-STACC: a set of SentenceTransformer Assisted Comment Classifiers 📚
+# STACC: a set of SentenceTransformer Assisted Comment Classifiers 📚
+This repository contains our notebooks for the train, test and use *STACC*, our submission to the NLBSE'23 [Code Comment Classification tool competition.](https://github.com/nlbse2023/code-comment-classification) 
 
 ## Quickstart Guide
 Install [SetFit](https://github.com/huggingface/setfit) with the [Optuna](https://github.com/optuna/optuna) backend:
@@ -23,3 +23,14 @@ If you wish to run the notebooks in Google Colab we provide the following ready-
 We also integrated STACC 📚 in a [Huggingface space.](https://huggingface.co/spaces/AISE-TUDelft/STACC) 
 
 [![image](https://user-images.githubusercontent.com/33690937/217076101-0f892518-768c-4aff-8fa2-67c3d272402b.png)](https://huggingface.co/spaces/AISE-TUDelft/STACC)
+
+## Citation
+```
+@software{STACC_2023,
+  author = {Al-Kaswan, Ali and Izadi, Maliheh and van Deursen, Arie},
+  year = {2023},
+  title = {STACC: a set of SentenceTransformer Assisted Comment Classifiers},
+  url = {https://github.com/AISE-TUDelft/STACC},
+  version = {1.0}
+```
+
