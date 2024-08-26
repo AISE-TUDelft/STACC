@@ -1,4 +1,9 @@
 # STACC: a set of SentenceTransformer Assisted Comment Classifiers 📚
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fhuggingface.co%2Fcollections%2FAISE-TUDelft%2FSTACC-65254a9b4d1fadc125a731dc?style=for-the-badge&logo=huggingface&label=Huggingface&color=%23FF9D00&link=https%3A%2F%2Fhuggingface.co%2Fcollections%2FAISE-TUDelft%2Fstacc-65254a9b4d1fadc125a731dc)
+![Static Badge](https://img.shields.io/badge/arXiv-2302.13149-b31b1b?style=for-the-badge&logo=arxiv&logoColor=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2302.13149)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+
 This repository contains our notebooks for the train, test and use *STACC*, our submission to the NLBSE'23 [Code Comment Classification tool competition.](https://github.com/nlbse2023/code-comment-classification) 
 
 ## Quickstart Guide
